@@ -8,6 +8,10 @@ This README provides a quick overview of these key concepts and how they enhance
 
 ---
 
+![example](./assets/learn-client-and-server-environments.avif)
+
+---
+
 ## Key Concepts
 
 ### 1. **React Components in Next.js**
@@ -83,4 +87,4 @@ Next.js allows seamless integration of **Server Components** and **Client Compon
 
 ## Conclusion
 
-By leveraging the power of **Server Components** and **Client Components**, Next.js empowers developers to build modern web applications that are both **performant** and **interactive**. Understanding when and how to use each type of component is key to creating scalable and efficient applications. For more details, refer to the official [Next.js documentation](https://nextjs.org/docs).
+By leveraging the power of **Server Components** and **Client Components**, Next.js empowers developers to build modern web applications that are both **performant** and **interactive**. Understanding when and how to use each type of component is key to creating scalable and efficient applications.

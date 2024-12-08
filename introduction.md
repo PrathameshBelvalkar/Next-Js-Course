@@ -121,21 +121,8 @@ To get started with Next.js 14, follow these steps:
 
 ### Example Directory Structure
 
-```plaintext
-/app
-  layout.js           → Base layout for the app
-  page.js             → Home page
-  /about
-    page.js           → About page
-  /products
-    [id]
-      page.js         → Dynamic route for products/:id
-    layout.js         → Layout for all products pages
-  error.js            → Global error page
-  loading.js          → Global loading state
-  not-found.js        → Custom 404 page
-```
+![example](./assets/terminology-component-tree.avif)
 
 ### Conclusion
 
-Next.js 14 makes it easier than ever to create performant, scalable, and modern web applications. With its file-based routing system, built-in layouts, and server-first approach, it simplifies both the developer and user experience. Explore the [Next.js documentation](https://nextjs.org/docs) for more detailed information.
+Next.js 14 makes it easier than ever to create performant, scalable, and modern web applications. With its file-based routing system, built-in layouts, and server-first approach, it simplifies both the developer and user experience.
